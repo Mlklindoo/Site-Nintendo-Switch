@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body, html{
+	height: 100%;
+}
+
+body{
+	background-color: red;
+}
+
+.one{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("nintendods.jpg");
+	height: 582px;
+	padding-top: 250px;
+}
+
+.two{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("bau.jpg");
+	height: 582px;
+	padding-top: 250px;
+}
+
+.three{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("switch.jpg");
+	height: 582px;
+	padding-top: 250px;
+}
+
+.four{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("sala.jpg");
+	height: 582px;
+	padding-top: 250px;
+}
+
+.five{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("rua.jpg");
+	height: 582px;
+	padding-top: 250px;
+}
+
+.menubar{
+	height: 80px;
+	width: 100%;
+	background-color: black;
+}
+
+.BigN{
+	height: 60px;
+	margin-top: 10px;
+}
+
+a:link, a:visited, a:hover, a:active{
+	text-decoration: none;
+	color: white;
+	}
+
+
+a{
+	font-family: Gugi, cursive;
+	margin-left: 200px;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 50px; 
+}
+
+.sarcasmo{
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+}
+
+.sarcasmo1{
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color: white;
+}
+
+.div1{
+	height: 100px;
+	width: 100%;
+	background-color: grey;
+	opacity: 0.8;
+	text-align: center;
+	line-height: 100px;
+}
+
+.footer{
+	height: 200px;
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	line-height: 200px;
+}
